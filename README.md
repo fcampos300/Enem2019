@@ -1,3 +1,6 @@
+<a href="https://www.linkedin.com/in/fabiocamposgp/" target="blank"><img src="https://img.shields.io/badge/Author-Fabio%20Campos-green" /></a> <img src="https://img.shields.io/badge/python-3.7%2B-blue" />
+
+<p><img src="https://github.com/fcampos300/covid19/blob/master/covid19.jpg?raw=true" alt="covid19.jpg"></p>
 # Enunciado
 Você é uma pessoa da área de Engenheira de Dados em uma empresa de consultoria educacional. Os consultores da empresa vão auxiliar um grupo educacional de ensino médio a desenvolver seu planejamento pedagógico e suas metodologias de ensino. Nesse sentido, eles fizeram a você uma requisição de preparar dados do ENEM para análise. Você deve, portanto, extrair os dados do ENEM, selecionar apenas os alunos de Minas Gerais e apresentar algumas análises que vão ajudar o trabalho dos consultores.
 
