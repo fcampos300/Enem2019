@@ -8,3 +8,9 @@ Você deverá desempenhar as seguintes atividades:
 <li>Filtrar apenas os alunos do estado de Minas Gerais</li>
 <li>Salvar um arquivo CSV com os dados já limpos em seu computador</li>
 <li>Escrever os dados numa tabela relacional em uma base de dados de sua escolha (MySQL, PostgreSQL, SQL Server etc.)</li></ul>
+
+# Notebooks
+<a href="https://github.com/fcampos300/Enem2019/blob/main/01_extracao.ipynb">01_extracao.ipynb</a><br>
+<a href="https://github.com/fcampos300/Enem2019/blob/main/02_transformacao.ipynb">02_transformacao.ipynb</a><br>
+<a href="https://github.com/fcampos300/Enem2019/blob/main/03_analise_exploratoria.ipynb">03_analise_exploratoria.ipynb</a><br>
+<a href="https://github.com/fcampos300/Enem2019/blob/main/04_ingestao.ipynb">04_ingestao.ipynb</a>
